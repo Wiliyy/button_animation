@@ -1,1 +1,1 @@
-![](video.GIF)
+![](https://imgur.com/EVbwCNE.png)
