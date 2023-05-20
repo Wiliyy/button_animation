@@ -31,7 +31,7 @@ export default function App() {
       if  ( e.translationX <= -98 ) {
         runOnJS(setState)(state - 1) 
       }
-      runOnJS(setColor)('#f0f')
+      runOnJS(setColor)('#80f')
       transbg.value = withSpring("#303");
       transX.value = withSpring(0);
     },
